@@ -1,0 +1,1 @@
+and information on overall EQI values, as well as domain-specificindex values. Limitations for each data source can be found at source data websites,included in the document.Sample code for adding leading zero to state FIPSSample SAS code:DATA eqi;SET eqi;LENGTH FIPS $5;IF stfips &lt;10000 THEN

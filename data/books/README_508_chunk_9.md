@@ -1,0 +1,1 @@
+• Contains description and information on non-transformed variables representing the Air,Water, Land, Built, and Sociodemographic Domains/environment used for constructionof the Air, Water, Land, Built, and Sociodemographic Domains index as well as theoverall Environmental Quality Index as part of

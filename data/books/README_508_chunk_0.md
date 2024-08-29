@@ -1,0 +1,1 @@
+<p>Readme file for the 2006-2010 Environmental Quality Index (EQI)EQI2006-2010_Technical_Report.pdf• Technical report for update of the Environmental Quality Index 2006-20102006_2010_EQI_2Jan2018_VC.csv• Contains PCA output for 5 domains and EQI, non-stratified• Contains PCA output for 5 domains and

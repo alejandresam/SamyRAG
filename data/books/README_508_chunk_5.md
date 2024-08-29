@@ -1,0 +1,1 @@
+valuesData Dictionary Variables EQI 2006_2010.xlsx• List of all variables with domain for two datasets:PCA_Input_Variables_Non_Transformed.csv and PCA_Input_Variables.csv, actualname/definition, and variable names for both transformed and non-transformed

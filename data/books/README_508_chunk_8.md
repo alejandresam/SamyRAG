@@ -1,0 +1,1 @@
+Contains metadata for non-transformed variables used in the air, water, land, built andsociodemographic domains

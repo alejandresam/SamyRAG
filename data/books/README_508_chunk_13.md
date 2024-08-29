@@ -1,0 +1,1 @@
+Built, and Sociodemographic Domains index as well as theoverall Environmental Quality Index as part of the USEPA's 2006-2010 EQI project.Refer to the original data source for data limitations. Original data sources can be foundwithin documentation.EnvironmentalQualityIndex_2006_2010_VC.xml•

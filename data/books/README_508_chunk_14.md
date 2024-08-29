@@ -1,0 +1,1 @@
+Original data sources can be foundwithin documentation.EnvironmentalQualityIndex_2006_2010_VC.xml• Contains metadata for the environmental quality index for 2006-2010 valence corrected• Contains description and information on overall EQI values, as well as domain-specificindex values. Limitations

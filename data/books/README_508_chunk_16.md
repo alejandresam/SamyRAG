@@ -1,0 +1,1 @@
+leading zero to state FIPSSample SAS code:DATA eqi;SET eqi;LENGTH FIPS $5;IF stfips &lt;10000 THEN FIPS = '0'||STRIP(stfips);ELSE FIPS=STRIP(stfips);DROP stfips;RUN;Sample R code:eqi$fips = substr ( as.numeric(eqi$stfips) + 100000, 2,7)</p>

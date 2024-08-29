@@ -1,0 +1,1 @@
+sociodemographic domains• Contains county level FIPS and RUCC categories• In the non-transformed file, no transformations have been applied to variables• There are no missing valuesPCA_Input_Variables.csv• Contains all variables from air, water, land, built and sociodemographic domains• Contains

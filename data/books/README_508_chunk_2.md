@@ -1,0 +1,1 @@
+and RUCC stratified (1-4) as continuousvariables and categorical (tertile, quartile, quintile categories)PCA_Input_Variables_Non_Transformed.csv• Contains all variables from air, water, land, built and sociodemographic domains• Contains county level FIPS and RUCC categories• In the non-transformed

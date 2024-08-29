@@ -1,0 +1,1 @@
+Contains the data inventory for air, water, land, built and sociodemographic domains• Includes data source names and links to data sourcesEnvironmentalQualityIndex_2006_2010_VC_NonTransformed.xml• Contains metadata for non-transformed variables used in the air, water, land, built

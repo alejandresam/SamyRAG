@@ -1,0 +1,1 @@
+Contains all variables from air, water, land, built and sociodemographic domains• Contains county level FIPS and RUCC categories• Includes transformed variables• There are no missing valuesData Dictionary Variables EQI 2006_2010.xlsx• List of all variables with domain for two

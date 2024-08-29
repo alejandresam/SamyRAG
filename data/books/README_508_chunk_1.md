@@ -1,0 +1,1 @@
+Contains PCA output for 5 domains and EQI, non-stratified• Contains PCA output for 5 domains and EQI, RUCC stratified (1-4)• Output for 5 domains and EQI, non-stratified and RUCC stratified (1-4) as continuousvariables and categorical (tertile, quartile, quintile

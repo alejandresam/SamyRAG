@@ -1,0 +1,1 @@
+sources can be foundwithin documentation.EnvironmentalQualityIndex_2006_2010_VC_Transformed.xml• Contains metadata for transformed variables used in the air, water, land, built andsociodemographic domains• Contains description and information on transformed variables representing the Air,Water,

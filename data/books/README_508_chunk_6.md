@@ -1,0 +1,1 @@
+actualname/definition, and variable names for both transformed and non-transformed datasetsData_Dictionary_2006_2010_EQI_VC.csv• List of all variables, name/definition for the dataset 2006_2010_EQI_2Jan2018_VC.csvEQI_2006_2010_Metadata.xlsx• Contains the data inventory for air, water, land, built
